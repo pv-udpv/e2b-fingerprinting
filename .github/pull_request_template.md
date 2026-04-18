@@ -18,7 +18,7 @@ Fixes #
 
 - [ ] Unit tests added/updated
 - [ ] Manual verification done
-- [ ] No new ESLint/ruff/mypy warnings
+- [ ] No new linter/type-checker warnings (if configured)
 
 ## Risk
 
